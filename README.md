@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Armekin
 - 👀 I’m interested in: creating repos of code snippets, utilities, and cool little standalone executables for archival purposes and public consumption.  
-- 🌱 I’m currently learning: GutHub
+- 🌱 I’m currently learning: GitHub
 - 💞️ I’m looking to collaborate on: Audio/Visual projects mostly
 - 📫 How to reach me: here on GitHub
 
